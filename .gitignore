@@ -1,0 +1,16 @@
+# Ignore virtual environments
+env/
+backend/env/
+frontend/node_modules/
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+*.env
+
+# Ignore build files
+frontend/build/
+backend/__pycache__/
+
+# Ignore IDE stuff
+.vscode/
